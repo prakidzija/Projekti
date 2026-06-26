@@ -1,1 +1,1 @@
-Kratki videi projekata na kojima sam radila tijekom dosadašnjeg studiranja. Labirint je video igra koju sam samostalno izradila u Unityju, a Soba je video izrađen u Blenderu u suradnji s kolegicom Strapač.
+Kratki videi projekata na kojima sam radila tijekom dosadašnjeg studiranja. Labirint je video igra koju sam samostalno izradila u Unityju, a Soba je video izrađen u Blenderu u suradnji s kolegicom Strapač. Memory je igra u Pythonu koju treba još doraditi.
